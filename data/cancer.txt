@@ -1,0 +1,89 @@
+Title: Cancer
+
+Subheadings:
+- Summary
+- Start Here
+- Diagnosis and Tests
+- Prevention and Risk Factors
+- Treatments and Therapies
+- Living With
+- Related Issues
+- Specifics
+- Genetics
+- Videos and Tutorials
+- Statistics and Research
+- Clinical Trials
+- Journal ArticlesReferences and abstracts from MEDLINE/PubMed (National Library of Medicine)
+- Reference Desk
+- Find an Expert
+- Children
+- Teenagers
+- Men
+- Women
+- Patient Handouts
+- Topic Image
+- MEDICAL ENCYCLOPEDIA
+- Related Health Topics
+- National Institutes of Health
+- Other Languages
+- Disclaimers
+
+Paragraphs:
+<p class="usa-banner__header-text">
+            An official website of the United States government
+          </p>
+
+<p class="usa-banner__header-action">Here’s how you know</p>
+
+<p>
+<strong>Official websites use .gov</strong><br/>A
+              <strong>.gov</strong> website belongs to an official government
+              organization in the United States.
+            </p>
+
+<p>
+<strong>Secure .gov websites use HTTPS</strong><br/>A
+              <strong>lock</strong> (
+              <span class="icon-lock"><svg aria-labelledby="banner-lock-description-default" class="usa-banner__lock-image" focusable="false" height="64" role="img" viewbox="0 0 52 64" width="52" xmlns="http://www.w3.org/2000/svg">
+<title id="banner-lock-title-default">Lock</title>
+<desc id="banner-lock-description-default">Locked padlock icon</desc>
+<path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"></path>
+</svg> </span>) or <strong>https://</strong> means you’ve safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites.
+            </p>
+
+<p class="evencols clearsection hrdividor"></p>
+
+<p class="threecols clearsection hrdividor"></p>
+
+<p class="evencols clearsection hrdividor"></p>
+
+<p>Cancer is not just one disease but many diseases. Cancer begins in your cells, which are the building blocks of your body. Usually, your body forms new cells as needed, replacing old cells that die. Sometimes this process goes wrong. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor.</p>
+
+<p>Tumors can be benign or malignant. <a href="https://medlineplus.gov/benigntumors.html">Benign tumors</a> aren't cancer, while malignant ones are. Cells from malignant tumors can invade nearby tissues. They can also break away and spread to other parts of your body. The spread of cancer from one part of the body to another is called metastasis. Symptoms and treatment depend on the type of cancer and how advanced it is.</p>
+
+<p>There are more than 100 different types of cancer. Cancer can start almost anywhere in your body. Most cancers are named for where they start. For example, lung cancer starts in the lung, and breast cancer starts in the breast.</p>
+
+<p>Cancer may also be described by the type of cell that formed it, such as sarcoma if cancer begins in your bone and soft tissue. Carcinoma is the most common type of cancer. It is formed by epithelial cells, the cells that cover the inside and outside surfaces of your body.</p>
+
+<p>Cancer is a <a href="https://medlineplus.gov/geneticdisorders.html">genetic</a> disease. That means changes in your genes cause it. Changes in your genes are also called gene variants or mutations. Genes are parts of DNA in your cells that you inherit from your parents. However, only some cancers are caused by genes passed down from your parents.</p>
+
+<p>Genetic changes can occur to your genes over your lifetime that affect how your cells function. Usually, your body gets rid of damaged cells before they turn cancerous, but this ability goes down as you age. Other factors that may affect your risk of developing cancer can include:</p>
+
+<p>Cancer symptoms depend on the type of cancer. For example, some of the symptoms that cancer may cause can include:</p>
+
+<p>Cancer may cause various symptoms but often doesn't cause pain. Don't wait until you're having pain before seeing your health care provider. See your provider if you have symptoms that don't get better in a few weeks.</p>
+
+<p>There is no single test that can diagnose cancer. The tests ordered are usually based on your symptoms. Your provider may:</p>
+
+<p>To find out if you have cancer, your provider may order a <a href="https://medlineplus.gov/biopsy.html">biopsy</a>. A biopsy is the procedure of removing and examining tissue, cells, or fluids from your body.</p>
+
+<p>Treatment depends on the type of cancer and how advanced it is. Most treatment plans may include surgery, <a href="https://medlineplus.gov/radiationtherapy.html">radiation</a>, and/or <a href="https://medlineplus.gov/cancerchemotherapy.html">chemotherapy</a>. Some may involve hormone therapy, <a href="https://medlineplus.gov/cancerimmunotherapy.html">immunotherapy</a> or other types of biological therapy, or <a href="https://medlineplus.gov/stemcells.html">stem cell transplantation</a>.</p>
+
+<p>It's usually not possible to know exactly why cancer develops in some people but not others. There are some things that you can't control which may increase or decrease your risk of getting cancer, such as inheriting certain genes or your age. But some lifestyle habits may increase your risk of certain types of cancer. Avoid or reduce lifestyle habits such as:</p>
+
+<p class="attribution">NIH: National Cancer Institute</p>
+
+<p>The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.</p>
+

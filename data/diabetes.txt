@@ -1,0 +1,86 @@
+Title: Diabetes
+
+Subheadings:
+- Summary
+- Start Here
+- Diagnosis and Tests
+- Prevention and Risk Factors
+- Treatments and Therapies
+- Living With
+- Related Issues
+- Genetics
+- Test Your Knowledge
+- Statistics and Research
+- Clinical Trials
+- Journal ArticlesReferences and abstracts from MEDLINE/PubMed (National Library of Medicine)
+- Reference Desk
+- Find an Expert
+- Women
+- Older Adults
+- Patient Handouts
+- Topic Image
+- MEDICAL ENCYCLOPEDIA
+- Related Health Topics
+- National Institutes of Health
+- Other Languages
+- Disclaimers
+
+Paragraphs:
+<p class="usa-banner__header-text">
+            An official website of the United States government
+          </p>
+
+<p class="usa-banner__header-action">Here’s how you know</p>
+
+<p>
+<strong>Official websites use .gov</strong><br/>A
+              <strong>.gov</strong> website belongs to an official government
+              organization in the United States.
+            </p>
+
+<p>
+<strong>Secure .gov websites use HTTPS</strong><br/>A
+              <strong>lock</strong> (
+              <span class="icon-lock"><svg aria-labelledby="banner-lock-description-default" class="usa-banner__lock-image" focusable="false" height="64" role="img" viewbox="0 0 52 64" width="52" xmlns="http://www.w3.org/2000/svg">
+<title id="banner-lock-title-default">Lock</title>
+<desc id="banner-lock-description-default">Locked padlock icon</desc>
+<path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"></path>
+</svg> </span>) or <strong>https://</strong> means you’ve safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites.
+            </p>
+
+<p class="evencols clearsection hrdividor"></p>
+
+<p class="threecols clearsection hrdividor"></p>
+
+<p class="evencols clearsection hrdividor"></p>
+
+<p>Diabetes, also known as diabetes mellitus, is a disease in which your <a href="https://medlineplus.gov/bloodglucose.html">blood glucose</a>, or blood sugar, levels are too high. Glucose is your body's main source of energy. Your body can make glucose, but it also comes from the food you eat. Insulin is a <a href="https://medlineplus.gov/hormones.html">hormone</a> made by your pancreas. Insulin helps move glucose from your bloodstream into your cells, where it can be used for energy.</p>
+
+<p>If you have diabetes, your body can't make insulin, can't use insulin as well as it should, or both. Too much glucose stays in your blood and doesn't reach your cells. This can cause glucose levels to get too high. Over time, high blood glucose levels can lead to <a href="https://medlineplus.gov/diabetescomplications.html">serious health conditions</a>. But you can take steps to manage your diabetes and try to prevent these health problems.</p>
+
+<p>There are different types of diabetes:</p>
+
+<p>The different types of diabetes have different causes:</p>
+
+<p>The different types of diabetes have different risk factors:</p>
+
+<p>The symptoms of diabetes may include:</p>
+
+<p>But it's important to know that your symptoms may vary, depending on which type you have:</p>
+
+<p>To find out if you have diabetes, your health care provider will use one or more <a href="https://medlineplus.gov/lab-tests/blood-glucose-test/">glucose blood tests</a>. There are several types, including the <a href="https://medlineplus.gov/a1c.html">A1C test</a>.</p>
+
+<p>Treatment for diabetes involves managing your blood glucose levels:</p>
+
+<p>Checking your blood glucose levels is also an important part of managing your diabetes. Ask your provider about the best way to check your blood glucose level and how often you should check it.</p>
+
+<p><strong>Type 1 diabetes</strong> can't be prevented.</p>
+
+<p>You may be able to delay or prevent <strong>type 2 diabetes</strong> through the same lifestyle changes that are used to manage diabetes (eating a healthy diet, staying at a healthy weight, and getting regular physical activity). These lifestyle changes may also help prevent <strong>gestational diabetes</strong>.</p>
+
+<p class="attribution">NIH: National Institute of Diabetes and Digestive and Kidney Diseases</p>
+
+<p>The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.</p>
+

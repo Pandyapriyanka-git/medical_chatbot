@@ -1,0 +1,34 @@
+2025-04-27 19:46:59,934 - ERROR - \u274c Failed to scrape: https://example.com/some-article | Status Code: 404
+2025-04-27 19:46:59,988 - INFO - \u2705 Inserted: asthma
+2025-04-27 19:46:59,991 - INFO - \u2705 Inserted: cancer
+2025-04-27 19:46:59,993 - INFO - \u2705 Inserted: diabetes
+2025-04-27 19:47:00,003 - INFO - \u2705 Knowledge base created successfully.
+2025-04-27 19:47:00,008 - INFO - Use pytorch device_name: cpu
+2025-04-27 19:47:00,008 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-27 19:47:05,167 - INFO - \u2705 Vector database created and meta information saved.
+2025-04-27 19:47:07,270 - INFO - Use pytorch device_name: cpu
+2025-04-27 19:47:07,270 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-27 19:47:10,626 - WARNING - \u26a0\ufe0f Content is too long, splitting and summarizing...
+2025-04-27 19:57:15,552 - ERROR - \u274c Failed to scrape: https://example.com/some-article | Status Code: 404
+2025-04-27 19:57:15,586 - INFO - \u2705 Inserted: asthma
+2025-04-27 19:57:15,587 - INFO - \u2705 Inserted: cancer
+2025-04-27 19:57:15,588 - INFO - \u2705 Inserted: diabetes
+2025-04-27 19:57:15,598 - INFO - \u2705 Knowledge base created successfully.
+2025-04-27 19:57:15,601 - INFO - Use pytorch device_name: cpu
+2025-04-27 19:57:15,602 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-27 19:57:20,869 - INFO - \u2705 Vector database created and meta information saved.
+2025-04-27 19:57:22,707 - INFO - Use pytorch device_name: cpu
+2025-04-27 19:57:22,707 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-27 19:57:25,482 - WARNING - \u26a0\ufe0f Content is too long, splitting and summarizing...
+2025-04-27 20:04:06,966 - ERROR - \u274c 404 Not Found: https://example.com/some-article
+2025-04-27 20:04:06,968 - ERROR - \u274c Failed to scrape https://example.com/some-article after 3 retries.
+2025-04-27 20:04:07,013 - INFO - \u2705 Inserted: asthma
+2025-04-27 20:04:07,013 - INFO - \u2705 Inserted: cancer
+2025-04-27 20:04:07,014 - INFO - \u2705 Inserted: diabetes
+2025-04-27 20:04:07,023 - INFO - \u2705 Knowledge base created successfully.
+2025-04-27 20:04:07,026 - INFO - Use pytorch device_name: cpu
+2025-04-27 20:04:07,026 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-27 20:04:12,289 - INFO - \u2705 Vector database created and meta information saved.
+2025-04-27 20:04:14,591 - INFO - Use pytorch device_name: cpu
+2025-04-27 20:04:14,591 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-27 20:04:17,474 - WARNING - \u26a0\ufe0f Content is too long, splitting and summarizing...

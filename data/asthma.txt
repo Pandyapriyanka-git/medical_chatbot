@@ -1,0 +1,89 @@
+Title: Asthma
+
+Subheadings:
+- Summary
+- Start Here
+- Diagnosis and Tests
+- Prevention and Risk Factors
+- Treatments and Therapies
+- Living With
+- Related Issues
+- Specifics
+- Genetics
+- Images
+- Videos and Tutorials
+- Test Your Knowledge
+- Statistics and Research
+- Journal ArticlesReferences and abstracts from MEDLINE/PubMed (National Library of Medicine)
+- Find an Expert
+- Children
+- Women
+- Older Adults
+- Patient Handouts
+- Topic Image
+- MEDICAL ENCYCLOPEDIA
+- Related Health Topics
+- National Institutes of Health
+- Other Languages
+- NIH MedlinePlus Magazine
+- Disclaimers
+
+Paragraphs:
+<p class="usa-banner__header-text">
+            An official website of the United States government
+          </p>
+
+<p class="usa-banner__header-action">Here’s how you know</p>
+
+<p>
+<strong>Official websites use .gov</strong><br/>A
+              <strong>.gov</strong> website belongs to an official government
+              organization in the United States.
+            </p>
+
+<p>
+<strong>Secure .gov websites use HTTPS</strong><br/>A
+              <strong>lock</strong> (
+              <span class="icon-lock"><svg aria-labelledby="banner-lock-description-default" class="usa-banner__lock-image" focusable="false" height="64" role="img" viewbox="0 0 52 64" width="52" xmlns="http://www.w3.org/2000/svg">
+<title id="banner-lock-title-default">Lock</title>
+<desc id="banner-lock-description-default">Locked padlock icon</desc>
+<path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"></path>
+</svg> </span>) or <strong>https://</strong> means you’ve safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites.
+            </p>
+
+<p class="evencols clearsection hrdividor"></p>
+
+<p class="threecols clearsection hrdividor"></p>
+
+<p class="evencols clearsection hrdividor"></p>
+
+<p>Asthma is a chronic (long-term) lung disease. It affects your airways, the tubes that carry air in and out of your lungs. When you have asthma, your airways can become inflamed and narrowed. This can cause wheezing, <a href="https://medlineplus.gov/cough.html">coughing</a>, and tightness in your chest. When these symptoms get worse than usual, it is called an asthma attack or flare-up.</p>
+
+<p>The exact cause of asthma is unknown. Genetics and your environment likely play a role in who gets asthma.</p>
+
+<p>An asthma attack can happen when you are exposed to an asthma trigger. An asthma trigger is something that can set off or worsen your asthma symptoms. Different triggers can cause different types of asthma:</p>
+
+<p>Asthma triggers may be different for each person and can change over time.</p>
+
+<p>Asthma affects people of all ages, but it often starts during childhood. Certain factors can raise your risk of having asthma:</p>
+
+<p>The symptoms of asthma include:</p>
+
+<p>These symptoms can range from mild to severe. You may have them every day or only once in a while.</p>
+
+<p>When you are having an asthma attack, your symptoms get much worse. The attacks may come on gradually or suddenly. Sometimes they can be life-threatening. They are more common in people who have severe asthma. If you are having asthma attacks, you may need a change in your treatment.</p>
+
+<p>Your health care provider may use many tools to diagnose asthma:</p>
+
+<p>If you have asthma, you will work with your health care provider to create a treatment plan. The plan will include ways to manage your asthma symptoms and prevent asthma attacks. It will include:</p>
+
+<p>If you have a severe attack and the short-term relief medicines do not work, you will need emergency care.</p>
+
+<p>Your provider may adjust your treatment until asthma symptoms are controlled.</p>
+
+<p>Sometimes asthma is severe and cannot be controlled with other treatments. If you are an adult with uncontrolled asthma, in some cases your provider might suggest bronchial thermoplasty. This is a procedure that uses heat to shrink the smooth muscle in the lungs. Shrinking the muscle reduces your airway's ability to tighten and allows you to breathe more easily. The procedure has some risks, so it's important to discuss them with your provider.</p>
+
+<p>The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.</p>
+
