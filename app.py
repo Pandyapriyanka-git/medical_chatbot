@@ -1,6 +1,10 @@
 from flask import Flask, request, jsonify, render_template, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
 from flask_caching import Cache
+import gradio as gr
+from utils import find_most_relevant_answer
+
+
 
 from model import db, User, MedicalProduct, Cart
 from db import init_db, get_all_diseases, save_chat, get_chat_history, delete_chat

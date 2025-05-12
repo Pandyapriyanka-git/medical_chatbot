@@ -1,17 +1,35 @@
+# utils.py
 from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
-model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
+# Load BERT model once
+model = SentenceTransformer('all-MiniLM-L6-v2')
+
+# Embed disease info only once and cache it
+def embed_diseases(diseases):
+    disease_texts = [
+        f"{d['name']} {d['description']} {d['symptoms']} {d['treatments']}"
+        for d in diseases
+    ]
+    embeddings = model.encode(disease_texts)
+    return embeddings
 
 def find_most_relevant_answer(question, diseases):
-    docs = [f"{d['name']} {d['description']} {d['symptoms']} {d['treatments']}" for d in diseases]
-    if not docs:
+    if not diseases:
         return None
 
-    embeddings = model.encode(docs, convert_to_tensor=True)
-    question_embedding = model.encode(question, convert_to_tensor=True)
-    similarities = np.dot(embeddings, question_embedding.reshape(-1, 1))
+    # Embed the diseases
+    disease_embeddings = embed_diseases(diseases)
 
-    most_similar_idx = np.argmax(similarities)
+    # Embed the question
+    question_embedding = model.encode([question])
 
-    return diseases[most_similar_idx]
+    # Compute cosine similarity
+    similarities = cosine_similarity(question_embedding, disease_embeddings)[0]
+
+    # Get the most similar index
+    best_idx = np.argmax(similarities)
+
+    # Return the best matching disease
+    return diseases[best_idx]
